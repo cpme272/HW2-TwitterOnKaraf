@@ -12,7 +12,7 @@ import org.junit.Test;
 @SuppressWarnings("deprecation")
 public class TestTwitterOnKaraf {
 
-	TwitterHelper twitterHelper = new TwitterHelper();
+	TwitterAPIHelper twitterHelper = new TwitterAPIHelper();
 	
 	/**
 	 * @author Mukesh R Sahay
